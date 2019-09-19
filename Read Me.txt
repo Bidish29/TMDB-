@@ -1,0 +1,9 @@
+1. Dataset used : TMDb movie data
+
+2. I have attached the "investigate-a-dataset-template.ipynb"
+
+3. Links i referred to:
+	stackoverflow.com
+	pandas.pydata.org
+	https://github.com/ghunt03/DAP02-Investigate-a-dataset/blob/master/Titanic%20Dataset%20Investigation.ipynb --- I referred this link to get an idea about how to go about my data analysis process asa this is my first submission.
+	
